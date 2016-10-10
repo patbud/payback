@@ -1,0 +1,11 @@
+package payback.pl.com.budnicki;
+
+public class UsersDAO {
+	public List<EmployeeDetails> showAllEmployees() {
+        List<EmployeeDetails> employeeList = new ArrayList();
+        Session session = HibernateUtil.getSessionFactory().openSession();
+        Query query = session.createQuery("From EmployeeDetails");
+        employeeList = query.list();
+        return employeeList;
+    }
+}

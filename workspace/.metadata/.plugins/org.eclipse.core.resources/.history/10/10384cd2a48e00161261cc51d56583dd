@@ -1,0 +1,8 @@
+package payback.pl.com.budnicki;
+
+public class Users {
+	int idUsers;
+	String name;
+	String surname;
+	String city;
+}

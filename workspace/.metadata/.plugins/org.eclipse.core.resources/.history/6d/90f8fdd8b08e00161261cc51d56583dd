@@ -1,0 +1,61 @@
+<%@page import="java.util.List"%>
+<%@page import="java.util.ArrayList"%>
+<%@page import="payback.pl.com.budnicki.Users"%>
+<%@page import="payback.pl.com.budnicki.Users"%>
+<%@page import="payback.pl.com.budnicki.Users"%>
+<%@page import="org.hibernate.boot.registry.StandardServiceRegistryBuilder"%>
+<%@page import="org.hibernate.cfg.Configuration"%>
+
+
+
+<html>
+<head>
+     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+     <title>Result Page</title>
+</head>
+<body>
+<h2>Hello World!</h2>
+         <table>
+             <thead>
+                 <tr>
+                     <th>User ID</th>
+                     <th>Name</th>
+                     <th>Surname</th>
+                     <th>City</th>                
+                 </tr>
+             </thead>
+             <tbody>
+                 <%
+                 List<Users> list = new ArrayList<Users>();
+                 Configuration configuration = new Configuration();
+        		 configuration.configure("hibernate.cfg.xml");
+        		 StandardServiceRegistryBuilder ssrb = new StandardServiceRegistryBuilder().applySettings( configuration.getProperties());
+        		 SessionFactory sessionFactory = configuration.buildSessionFactory(ssrb.build());
+        		 session = sessionFactory.openSession();    
+                 try {
+                     tx = session.getTransaction();
+                     tx.begin();
+                     list = session.createQuery("from User").list();                       
+                     tx.commit();
+                 } catch (Exception e) {
+                     if (tx != null) {
+                         tx.rollback();
+                     }
+                     e.printStackTrace();
+                 } finally {
+                     session.close();
+                 }
+                     
+                     for (Users u : list) {
+                 %>
+                 <tr>
+                     <td><%=u.getIdUsers()%></td>
+                     <td><%=u.getName()%></td>
+                     <td><%=u.getSurname()%></td>
+                     <td><%=u.getCity()%></td>
+                 </tr>
+                 <%}%>
+             <tbody>
+         </table>  
+</body>
+</html>

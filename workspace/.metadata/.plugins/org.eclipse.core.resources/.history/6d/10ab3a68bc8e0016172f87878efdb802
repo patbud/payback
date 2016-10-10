@@ -1,0 +1,18 @@
+package payback.pl.com.budnicki;
+
+import java.util.ArrayList;
+import java.util.List;
+import org.hibernate.Session;
+import org.hibernate.query.Query;
+import org.hibernate.cfg.Configuration;
+
+
+public class UsersDAO {
+	public List<Users> showAllUsers() {
+        List<Users> usersList = new ArrayList();
+        Session session = new Configuration().configure("/hibernate/hibernate.cfg.xml").buildSessionFactory().openSession();
+        Query<Users> query = session.createQuery("From USERS");
+        usersList = query.list();
+        return usersList;
+    }
+}

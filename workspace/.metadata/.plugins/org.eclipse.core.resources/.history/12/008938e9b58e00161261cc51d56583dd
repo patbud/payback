@@ -1,0 +1,63 @@
+<%@page import="java.util.List"%>
+<%@page import="payback.pl.com.budnicki.Users"%>
+<html>
+<head>
+     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+     <title>Result Page</title>
+</head>
+<body>
+
+All Users: <br> 
+        <c:forEach var="usr" items="${usersList}">
+            User ID: ${emp.id} <br>
+            User Name: ${emp.ename} <br>
+            User Number: ${emp.enumber}<br>
+            -------------------------------------<br>
+        </c:forEach>
+        <form action="UserController" method="POST">
+            <select name="id">
+                <c:forEach items="${usersList}" var="user">
+                <option value="${user.id}">${user.id}</option>
+                 </c:forEach>
+            </select>
+            
+            <br>
+            Update Name: <input id="ename" type="text" name="ename"><br>
+            Update Number: <input id="enumberupdate" type="text" name="enumberupdate"> <br><br>
+            <button type="submit" id="updateUser" name="updateUser"> Update</button> <br> <br>
+            <button type="submit" id="deleteUser" name="deleteUser"> Delete </button>
+            
+            
+               
+       
+        </form>
+
+
+
+<%-- <h2>Hello World!</h2>
+         <table>
+             <thead>
+                 <tr>
+                     <th>User ID</th>
+                     <th>Name</th>
+                     <th>Surname</th>
+                     <th>City</th>                
+                 </tr>
+             </thead>
+             <tbody>
+                 <%
+                     LoginService loginService = new LoginService();
+                     List<Users> list = loginService.getListOfUsers();
+                     for (Users u : list) {
+                 %>
+                 <tr>
+                     <td><%=u.getIdUsers();%></td>
+                     <td><%=u.getName()%></td>
+                     <td><%=u.getSurname()%></td>
+                     <td><%=u.getCity()%></td>
+                 </tr>
+                 <%}%>
+             <tbody>
+         </table>   --%>
+</body>
+</html>

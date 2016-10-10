@@ -1,0 +1,37 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+All Users: <br> 
+        <c:forEach var="emp" items="${employeeList}">
+            User ID: ${emp.id} <br>
+            User Name: ${emp.ename} <br>
+            User Surname: ${emp.enumber}<br>
+            User city: ${emp.enumber}<br>
+            -------------------------------------<br>
+        </c:forEach>
+        <form action="EmployeeController" method="POST">
+            Update: <input type="checkbox" id="update"> Delete: <input type="checkbox" id="delete" onclick="document.getElementById('ename').disabled=this.checked;document.getElementById('enumberupdate').disabled=this.checked;"><br><br>
+            <select name="id">
+                <c:forEach items="${employeeList}" var="employee">
+                <option value="${employee.id}">${employee.id}</option>
+                 </c:forEach>
+            </select>
+            
+            <br>
+            Update Name: <input id="ename" type="text" name="ename"><br>
+            Update Number: <input id="enumberupdate" type="text" name="enumberupdate"> <br><br>
+            <button type="submit" id="updateEmployee" name="updateEmployee"> Update</button> <br> <br>
+            <button type="submit" id="deleteEmployee" name="deleteEmployee"> Delete </button>
+            
+            
+               
+       
+        </form>
+    </body>
+</html>

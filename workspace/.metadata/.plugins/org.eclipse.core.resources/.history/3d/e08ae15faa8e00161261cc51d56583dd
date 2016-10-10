@@ -1,0 +1,32 @@
+<%@page import="java.util.List"%>
+<html>
+<body>
+<h2>Hello World!</h2>
+         <table>
+             <thead>
+                 <tr>
+                     <th>User ID</th>
+                     <th>First Name</th>
+                     <th>Middle Name</th>
+                     <th>Last Name</th>
+                     <th>email</th>                
+                 </tr>
+             </thead>
+             <tbody>
+                 <%
+                     LoginService loginService = new LoginService();
+                     List<User> list = loginService.getListOfUsers();
+                     for (User u : list) {
+                 %>
+                 <tr>
+                     <td><%=u.getUserId()%></td>
+                     <td><%=u.getFirstName()%></td>
+                     <td><%=u.getMiddleName()%></td>
+                     <td><%=u.getLastName()%></td>
+                     <td><%=u.getEmail()%></td>
+                 </tr>
+                 <%}%>
+             <tbody>
+         </table>  
+</body>
+</html>

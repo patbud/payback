@@ -1,0 +1,855 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+
+<channel>
+	<title>Planet Eclipse</title>
+	<link>http://planeteclipse.org/planet/</link>
+	<language>en</language>
+	<description>Planet Eclipse - http://planeteclipse.org/planet/</description>
+
+<item>
+	<title>PapyrusUML: MARTE 1.2.1</title>
+	<guid isPermaLink="false">http://papyrusuml.wordpress.com/?p=269</guid>
+	<link>https://papyrusuml.wordpress.com/2016/10/10/marte-1-2-1/</link>
+	<description>&lt;p&gt;Have you heard about MARTE?&lt;/p&gt;
+&lt;p&gt;Well, MARTE is the OMG Modeling and Analysis of Real-Time Embedded Systems profile.&lt;/p&gt;
+&lt;p&gt;Yes, it’s a mouthful, but if you are interested in the nitty-gritty of embedded systems, it can be very useful!&lt;/p&gt;
+&lt;p&gt;Here’s a short message from one of my minion about it:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;We are pleased to announce that the MARTE feature has been transformed into a Papyrus Component. The MARTE 1.2.1 release, for Eclipse Neon, can be downloaded from [1]. We advise you to uninstal4l any previous version of MARTE beforehand.&lt;/p&gt;
+&lt;p&gt;The old MARTE projects, in the extra folder of the main Papyrus repository, will soon be completely removed. The new repository can be cloned from [2].&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&quot;http://download.eclipse.org/modeling/mdt/papyrus/components/marte/neon/&quot; rel=&quot;nofollow&quot;&gt;http://download.eclipse.org/modeling/mdt/papyrus/components/marte/neon/&lt;/a&gt;&lt;br /&gt;
+[2] &lt;a href=&quot;https://git.eclipse.org/r/papyrus/org.eclipse.papyrus-marte&quot; rel=&quot;nofollow&quot;&gt;https://git.eclipse.org/r/papyrus/org.eclipse.papyrus-marte&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Aren’t you lucky that I support it?&lt;/p&gt;&lt;br /&gt;Filed under: &lt;a href=&quot;https://papyrusuml.wordpress.com/category/marte/&quot;&gt;MARTE&lt;/a&gt;, &lt;a href=&quot;https://papyrusuml.wordpress.com/category/news/&quot;&gt;News&lt;/a&gt;, &lt;a href=&quot;https://papyrusuml.wordpress.com/category/papyrus/&quot;&gt;Papyrus&lt;/a&gt;, &lt;a href=&quot;https://papyrusuml.wordpress.com/category/uncategorized/&quot;&gt;Uncategorized&lt;/a&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/papyrusuml.wordpress.com/269/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/papyrusuml.wordpress.com/269/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/godelicious/papyrusuml.wordpress.com/269/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/delicious/papyrusuml.wordpress.com/269/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/gofacebook/papyrusuml.wordpress.com/269/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/facebook/papyrusuml.wordpress.com/269/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/gotwitter/papyrusuml.wordpress.com/269/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/twitter/papyrusuml.wordpress.com/269/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/gostumble/papyrusuml.wordpress.com/269/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/stumble/papyrusuml.wordpress.com/269/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/godigg/papyrusuml.wordpress.com/269/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/digg/papyrusuml.wordpress.com/269/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/goreddit/papyrusuml.wordpress.com/269/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/reddit/papyrusuml.wordpress.com/269/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=papyrusuml.wordpress.com&amp;amp;blog=72365150&amp;amp;post=269&amp;amp;subd=papyrusuml&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 10 Oct 2016 04:00:50 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Last chance! Devoxx US Call for Papers closes October 11</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/nUab75yesKE/</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/nUab75yesKE/</link>
+	<description>Submit your talk and join the strong lineup of Eclipse proposals at the new Devoxx US 2017 conference.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/nUab75yesKE&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 07 Oct 2016 05:40:00 +0000</pubDate>
+</item>
+<item>
+	<title>PapyrusUML: Me 2.0.1! Shine bright like a Neon(.1)</title>
+	<guid isPermaLink="false">http://papyrusuml.wordpress.com/?p=259</guid>
+	<link>https://papyrusuml.wordpress.com/2016/10/07/me-2-0-1-shine-bright-like-a-neon-1/</link>
+	<description>&lt;p&gt;You might have missed it, but my Neon.1 version (a.k.a. 2.0.1) is available!&lt;/p&gt;
+&lt;p&gt;My minions did their usual excellent job in keeping me up to date!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.eclipse.org/papyrus/download.html&quot;&gt;Go get it&lt;/a&gt;…I’ll wait…&lt;img alt=&quot;😉&quot; class=&quot;wp-smiley&quot; src=&quot;https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f609.png&quot; style=&quot;height: 1em;&quot; /&gt;&lt;/p&gt;&lt;br /&gt;Filed under: &lt;a href=&quot;https://papyrusuml.wordpress.com/category/news/&quot;&gt;News&lt;/a&gt;, &lt;a href=&quot;https://papyrusuml.wordpress.com/category/papyrus/&quot;&gt;Papyrus&lt;/a&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/papyrusuml.wordpress.com/259/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/papyrusuml.wordpress.com/259/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/godelicious/papyrusuml.wordpress.com/259/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/delicious/papyrusuml.wordpress.com/259/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/gofacebook/papyrusuml.wordpress.com/259/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/facebook/papyrusuml.wordpress.com/259/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/gotwitter/papyrusuml.wordpress.com/259/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/twitter/papyrusuml.wordpress.com/259/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/gostumble/papyrusuml.wordpress.com/259/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/stumble/papyrusuml.wordpress.com/259/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/godigg/papyrusuml.wordpress.com/259/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/digg/papyrusuml.wordpress.com/259/&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://feeds.wordpress.com/1.0/goreddit/papyrusuml.wordpress.com/259/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/reddit/papyrusuml.wordpress.com/259/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=papyrusuml.wordpress.com&amp;amp;blog=72365150&amp;amp;post=259&amp;amp;subd=papyrusuml&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 07 Oct 2016 04:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Wayne Beaton: EclipseCon Europe 2016</title>
+	<guid isPermaLink="false">http://waynebeaton.wordpress.com/?p=3791</guid>
+	<link>https://waynebeaton.wordpress.com/2016/10/06/3791/</link>
+	<description>&lt;p&gt;The source for the &lt;a href=&quot;https://www.eclipse.org/projects/handbook/&quot;&gt;Eclipse Project Handbook&lt;/a&gt; is in AsciiDoc format (rendered using &lt;a href=&quot;http://asciidoctor.org/&quot;&gt;Asciidoctor&lt;/a&gt; via Maven), and includes embedded &lt;a href=&quot;http://www.graphviz.org/&quot;&gt;Graphviz&lt;/a&gt; graph descriptions (which are rendered into embedded images). Proofing those images is a bit of a pain: it requires that I actually build the handbook and use a browser to view the results.&lt;/p&gt;
+&lt;p&gt;A few years ago, I wrote an &lt;a href=&quot;https://github.com/waynebeaton/imageutil&quot;&gt;&lt;em&gt;Image Util&lt;/em&gt; plug-in&lt;/a&gt;, primarily as an excuse to learn about &lt;a href=&quot;https://www.eclipse.org/articles/article.php?file=Article-Adapters/index.html&quot;&gt;how adapters work&lt;/a&gt;. I pulled that old plug-in into my current Eclipse IDE (Neon edition) and was quite happy to learn that it still works. The implementation is simple enough: it provides an &lt;em&gt;Image Preview&lt;/em&gt; view that—when possible—adapts the current selection into an &lt;em&gt;ImageProvider&lt;/em&gt; that (curiously enough) provides an image to display. It works brilliantly for file selections and I even made it work for selections in the Remote Systems Explorer.&lt;/p&gt;
+&lt;p&gt;So, frustrated with the round-trip process for testing images (after spending some quality time hunting down an existing solution), I created a plug-in that adapts an arbitrary text selection into an image provider that invokes the Graphviz &lt;em&gt;dot&lt;/em&gt; command to render the selection into an image. I was a bit stunned when my first attempt at implementing it just worked. It works in every text editor that I’ve tested it with (including the handy &lt;a href=&quot;https://wiki.eclipse.org/Mylyn/WikiText/AsciiDoc&quot;&gt;AsciiDoc WikiText&lt;/a&gt; editor).&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;screenshot-from-2016-10-06-17-20-54&quot; class=&quot;aligncenter size-large wp-image-3792&quot; height=&quot;437&quot; src=&quot;https://waynebeaton.files.wordpress.com/2016/10/screenshot-from-2016-10-06-17-20-54.png?w=640&amp;amp;h=437&quot; width=&quot;640&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Anyway… it’s a quick and dirty hack (albeit, a hack with some potential) that requires the command-line tool be installed, but I think that it demonstrates some of the power that comes when your platform has well-documented and stable APIs (FWIW, the implementation has about seven meaningful lines of code).&lt;/p&gt;
+&lt;p&gt;Note that the implementation is currently only available as source code. Sorry, there’s no software site yet. Maybe that’s something we can work on at the &lt;a href=&quot;https://www.eclipsecon.org/europe2016/bof-session/hackathon&quot;&gt;EclipseCon Europe 2016 Hackathon&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.eclipsecon.org/europe2016&quot;&gt;&lt;img alt=&quot;EclipseCon Europe 2016&quot; border=&quot;0&quot; height=&quot;90&quot; src=&quot;https://www.eclipsecon.org/europe2016/sites/default/files/ECEFriendsbright728x90.jpg&quot; width=&quot;728&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/waynebeaton.wordpress.com/3791/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/waynebeaton.wordpress.com/3791/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=waynebeaton.wordpress.com&amp;amp;blog=19425814&amp;amp;post=3791&amp;amp;subd=waynebeaton&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Thu, 06 Oct 2016 21:42:14 +0000</pubDate>
+</item>
+<item>
+	<title>JBoss Tools Team: Production Fuse Tooling emerges on Mars</title>
+	<guid isPermaLink="true">http://tools.jboss.org/blog/integration-stack-4.3.2.Final.html</guid>
+	<link>http://tools.jboss.org/blog/integration-stack-4.3.2.Final.html</link>
+	<description>&lt;div&gt;&lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Try our complete Eclipse-Mars capable, JBDS 9.1.0 compatible integration tooling.&lt;/strong&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;jbosstools jbdevstudio blog header&quot; src=&quot;http://tools.jboss.org/blog/images/jbosstools-jbdevstudio-blog-header.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;title&quot;&gt;&lt;strong&gt;JBoss Tools Integration Stack&lt;/strong&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;admonitionblock caution&quot;&gt;
+      &lt;table&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+      &lt;td class=&quot;icon&quot;&gt;
+      &lt;i class=&quot;fa icon-caution&quot; title=&quot;Caution&quot;&gt;&lt;/i&gt;
+      &lt;/td&gt;
+      &lt;td class=&quot;content&quot;&gt;
+      Since JBoss Tools 4.3.0 we require Java 8 for the installation and use of all JBoss Tools, including the Integration Stack tooling.  We still support developing and running applications using older Java runtimes. See more in &lt;a href=&quot;http://tools.jboss.org/blog/2015-06-23-beta1-for-mars.html#java-8-to-run-eclipse-older-runtimes-ok-for-builds-deployment&quot;&gt;Beta1 blog&lt;/a&gt;.
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;JBoss Tools Integration Stack 4.3.2.Final / JBoss Developer Studio Integration Stack 9.0.2.GA&lt;/strong&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;admonitionblock note&quot;&gt;
+      &lt;table&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+      &lt;td class=&quot;icon&quot;&gt;
+      &lt;i class=&quot;fa icon-note&quot; title=&quot;Note&quot;&gt;&lt;/i&gt;
+      &lt;/td&gt;
+      &lt;td class=&quot;content&quot;&gt;
+      All of the Integratioon Stack components have been verified to work with the same dependencies as JBoss Tools 4.3 and Developer Studio 9.
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-s-new-for-this-release&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-s-new-for-this-release&quot;&gt;&lt;/a&gt;What’s new for this release?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The highlight of this release is full Fuse tooling and SwitchYard support for &lt;a href=&quot;http://access.redhat.com/documentation/en/red-hat-jboss-fuse/6.3/&quot;&gt;Red Hat JBoss Fuse 6.3&lt;/a&gt; on Eclipse Mars.  Included in the Fuse Tooling enhancements is a new Fuse Integration Project wizard, an updated Visual Camel Editor and improvements to the validation of Camel files.  See the &lt;a href=&quot;http://developers.redhat.com/blog/2016/10/06/jboss-fuse-tooling-released-for-eclipse-mars/&quot;&gt;Red Hat Developers Program blog&lt;/a&gt; for a view of the updated Fuse Tooling support in detail.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;released-tooling-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#released-tooling-highlights&quot;&gt;&lt;/a&gt;Released Tooling Highlights&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;jboss-fuse-development-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#jboss-fuse-development-highlights&quot;&gt;&lt;/a&gt;JBoss Fuse Development Highlights&lt;/h4&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;fuse-tooling-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#fuse-tooling-highlights&quot;&gt;&lt;/a&gt;Fuse Tooling Highlights&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;See the Fuse Tooling section in the &lt;a href=&quot;http://access.redhat.com/documentation/en/red-hat-jboss-developer-studio-integration-stack/9.0/paged/902ga-release-notes/chapter-4-resolved-issues&quot;&gt;Resolved Issues Section&lt;/a&gt; of the Integration Stack 9.0.2.GA release notes.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;switchyard-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#switchyard-highlights&quot;&gt;&lt;/a&gt;SwitchYard Highlights&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;See the SwitchYard section in the &lt;a href=&quot;http://access.redhat.com/documentation/en/red-hat-jboss-developer-studio-integration-stack/9.0/paged/902ga-release-notes/chapter-4-resolved-issues&quot;&gt;Resolved Issues Section&lt;/a&gt; of the Integration Stack 9.0.2.GA release notes.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;jboss-business-process-and-rules-development&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#jboss-business-process-and-rules-development&quot;&gt;&lt;/a&gt;JBoss Business Process and Rules Development&lt;/h4&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;bpmn2-modeler-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#bpmn2-modeler-highlights&quot;&gt;&lt;/a&gt;BPMN2 Modeler Highlights&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;See the BPMN2 Modeler section in the &lt;a href=&quot;http://access.redhat.com/documentation/en/red-hat-jboss-developer-studio-integration-stack/9.0/paged/902ga-release-notes/chapter-4-resolved-issues&quot;&gt;Resolved Issues Section&lt;/a&gt; of the Integration Stack 9.0.2.GA release notes.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;drools-jbpm6-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#drools-jbpm6-highlights&quot;&gt;&lt;/a&gt;Drools/jBPM6 Highlights&lt;/h5&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://access.redhat.com/documentation/en-US/Red_Hat_JBoss_Developer_Studio_Integration_Stack/9.0/html/9.0.0_Release_Notes/sect-Resolved_Issues.html#Drools_6.4.1.Final&quot;&gt;Drools 6.4.1 Release Notes&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;data-virtualization-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#data-virtualization-highlights&quot;&gt;&lt;/a&gt;Data Virtualization Highlights&lt;/h4&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;teiid-designer-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#teiid-designer-highlights&quot;&gt;&lt;/a&gt;Teiid Designer Highlights&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;See the &lt;a href=&quot;http://access.redhat.com/articles/2505131#teiid-designer-1001final-4&quot;&gt;Teiid Designer 10.0.1.Final Release Notes&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;soa-5-x-development&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#soa-5-x-development&quot;&gt;&lt;/a&gt;SOA 5.x Development&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;JBoss ESB, jBPM3 and guvnor.  &lt;strong&gt;These tools have been deprecated.&lt;/strong&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;early-access-technical-preview-tooling-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#early-access-technical-preview-tooling-highlights&quot;&gt;&lt;/a&gt;Early Access/ Technical Preview Tooling Highlights&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;None!&lt;/strong&gt;  We’re happy to say that all JBDS 9/ Eclipse-Mars compatible features are now released as production plugins.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-s-an-integration-stack&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-s-an-integration-stack&quot;&gt;&lt;/a&gt;What’s an Integration Stack?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The Integration Stack for JBoss Developer Studio is a set of features and plugins for Eclipse that further enhances the IDE development functionality provided by JBoss Developer Studio.  It’s where the Fuse Tooling, DataVirt Tooling and BRMS tooling is aggregated.  The following frameworks are supported:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;jboss-fuse-development&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#jboss-fuse-development&quot;&gt;&lt;/a&gt;JBoss Fuse Development&lt;/h3&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/apachecamel.html&quot;&gt;Fuse Tooling&lt;/a&gt; - JBoss Fuse Development provides tooling for Red Hat JBoss Fuse.  It features the latest versions of the Fuse Data Transformation tooling, SwitchYard and access to the Fuse SAP Tool Suite.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/switchyard.html&quot;&gt;SwitchYard&lt;/a&gt; - A lightweight service delivery framework providing full lifecycle support for developing, deploying, and managing service-oriented applications.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;jboss-business-process-and-rules-development-2&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#jboss-business-process-and-rules-development-2&quot;&gt;&lt;/a&gt;JBoss Business Process and Rules Development&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;JBoss Business Process and Rules Development plug-ins provide design, debug and testing tooling for developing business processes for Red Hat JBoss BRMS and Red Hat JBoss BPM Suite.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/bpel.html&quot;&gt;BPEL Designer&lt;/a&gt; - Orchestrating your business processes.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/bpmn2.html&quot;&gt;BPMN2 Modeler&lt;/a&gt; - A graphical modeling tool which allows creation and editing of Business Process Modeling Notation diagrams using graphiti.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/drools.html&quot;&gt;Drools&lt;/a&gt; - A Business Logic integration Platform which provides a unified and integrated platform for Rules, Workflow and Event Processing including KIE.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/jbpm.html&quot;&gt;jBPM6&lt;/a&gt; - A flexible Business Process Management (BPM) suite.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;jboss-data-virtualization-development&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#jboss-data-virtualization-development&quot;&gt;&lt;/a&gt;JBoss Data Virtualization Development&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;JBoss Data Virtualization Development plug-ins provide a graphical interface to manage various aspects of Red Hat JBoss Data Virtualization instances, including the ability to design virtual databases and interact with associated governance repositories.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/teiiddesigner.html&quot;&gt;Teiid Designer&lt;/a&gt; - A visual tool that enables rapid, model-driven definition, integration, management and testing of data services without programming using the Teiid runtime framework.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/modeshape.html&quot;&gt;ModeShape&lt;/a&gt; - A distributed, hierarchical, transactional and consistent data store with support for queries, full-text search, events, versioning, references, and flexible and dynamic schemas. It is very fast, highly available, extremely scalable, and it is 100% open source.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;admonitionblock note&quot;&gt;
+      &lt;table&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+      &lt;td class=&quot;icon&quot;&gt;
+      &lt;i class=&quot;fa icon-note&quot; title=&quot;Note&quot;&gt;&lt;/i&gt;
+      &lt;/td&gt;
+      &lt;td class=&quot;content&quot;&gt;
+      &lt;strong&gt;ModeShape is deprecated.&lt;/strong&gt;
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;jboss-integration-and-soa-development&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#jboss-integration-and-soa-development&quot;&gt;&lt;/a&gt;JBoss Integration and SOA Development&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;JBoss Integration and SOA Development plug-ins provide tooling for developing, configuring and deploying BRMS, SwitchYard and Fuse applications to Red Hat JBoss Fuse Service Works, Red Hat JBoss Fuse and Fuse Fabric containers, Apache ServiceMix, and Apache Karaf instances.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;All of the Business Process and Rules Development plugins, plus…​&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/apachecamel.html&quot;&gt;Fuse Apache Camel Tooling&lt;/a&gt; - A graphical tool for integrating software components that works with Apache ServiceMix, Apache ActiveMQ, Apache Camel and the FuseSource distributions.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/features/switchyard.html&quot;&gt;SwitchYard&lt;/a&gt; - A lightweight service delivery framework providing full lifecycle support for developing, deploying, and managing service-oriented applications.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;soa-5-x-development-2&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#soa-5-x-development-2&quot;&gt;&lt;/a&gt;SOA 5.x Development&lt;/h3&gt;
+      &lt;div class=&quot;admonitionblock note&quot;&gt;
+      &lt;table&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+      &lt;td class=&quot;icon&quot;&gt;
+      &lt;i class=&quot;fa icon-note&quot; title=&quot;Note&quot;&gt;&lt;/i&gt;
+      &lt;/td&gt;
+      &lt;td class=&quot;content&quot;&gt;
+      &lt;strong&gt;Please note that the plugins in this category have been deprecated.&lt;/strong&gt;
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.jboss.org/jbossesb&quot;&gt;JBoss ESB&lt;/a&gt; - An enterprise service bus for connecting enterprise applications and services.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;http://docs.jboss.com/jbpm/v3.2/userguide/html_single/&quot;&gt;jBPM3&lt;/a&gt; - A flexible Business Process Management (BPM) Suite - JBoss Enterprise SOA Platform 5.3.x compatible version.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;the-jboss-tools-website-features-tab&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#the-jboss-tools-website-features-tab&quot;&gt;&lt;/a&gt;The JBoss Tools website features tab&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Don’t miss the &lt;a href=&quot;http://tools.jboss.org/features&quot;&gt;Features tab&lt;/a&gt; for up to date information on your favorite Integration Stack components.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;installation&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#installation&quot;&gt;&lt;/a&gt;Installation&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The easiest way to install the Integration Stack components is to first install &lt;a href=&quot;http://tools.jboss.org/downloads/jbosstools/mars/4.3.1.Final.html&quot;&gt;JBoss Tools 4.3.1&lt;/a&gt; or &lt;a href=&quot;http://tools.jboss.org/downloads/devstudio/mars/9.1.0.GA.html&quot;&gt;JBoss Developer Studio 9.1.0&lt;/a&gt; and then select the Software/Update tab in the JBoss Central view.  There’s also a &lt;a href=&quot;http://developers.redhat.com/download-manager/file/devstudio-integration-stack-9.0.2.GA-standalone-installer.jar&quot;&gt;stand-alone installer&lt;/a&gt; available.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;For a complete set of Integration Stack installation instructions, see &lt;a href=&quot;http://access.redhat.com/documentation/en-US/Red_Hat_JBoss_Developer_Studio_Integration_Stack/9.0/html/Install_Red_Hat_JBoss_Developer_Studio_Integration_Stack/index.html&quot;&gt;Integration Stack Installation Instructions&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;em&gt;Let us know!&lt;/em&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Paul Leacu.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Thu, 06 Oct 2016 19:14:43 +0000</pubDate>
+</item>
+<item>
+	<title>JBoss Tools Team: JBoss Fuse Tooling released for Eclipse Mars</title>
+	<guid isPermaLink="true">http://tools.jboss.org/blog/2016-10-06-fusetooling-release-mars.html</guid>
+	<link>http://tools.jboss.org/blog/2016-10-06-fusetooling-release-mars.html</link>
+	<description>&lt;div&gt;&lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;admonitionblock note&quot;&gt;
+      &lt;table&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+      &lt;td class=&quot;icon&quot;&gt;
+      &lt;i class=&quot;fa icon-note&quot; title=&quot;Note&quot;&gt;&lt;/i&gt;
+      &lt;/td&gt;
+      &lt;td class=&quot;content&quot;&gt;
+      This article has been posted also on &lt;a href=&quot;http://developers.redhat.com/blog/2016/10/06/jboss-fuse-tooling-released-for-eclipse-mars/&quot;&gt;Red Hat Developers Program blog&lt;/a&gt;.
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We are happy to announce the release of &lt;a href=&quot;http://tools.jboss.org/features/apachecamel.html&quot;&gt;Red Hat JBoss Fuse Tooling&lt;/a&gt; for Eclipse Mars.
+      It is available now in the JBoss Tools Integration Stack 4.3.2 / Developer Studio Integration Stack 9.0.2.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-s-in-there&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-s-in-there&quot;&gt;&lt;/a&gt;What’s in there?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Let me highlight the most important changes only. You can see a full list of changes in the &lt;strong&gt;What’s New&lt;/strong&gt; section for the release.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;new-fuse-integration-project-wizard&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#new-fuse-integration-project-wizard&quot;&gt;&lt;/a&gt;New Fuse Integration Project wizard&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;One of our main objectives for this release was improving the usability and making the tooling easy to use. The project wizard was one of the things we wanted to improve.
+      In the new version of the wizard you are now able to specify a runtime you want to develop for &lt;strong&gt;OR&lt;/strong&gt; an &lt;a href=&quot;http://camel.apache.org&quot;&gt;Apache Camel&lt;/a&gt; version to be used from the list of supported versions.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;new project wizard&quot; height=&quot;400&quot; src=&quot;http://tools.jboss.org/blog/images/fuse/8.0.0.GA/new_project_wizard.png&quot; width=&quot;640&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Another improvement is the replacing of the archetype selection with a more user friendly list of project templates which are now more use case oriented. At the moment we have just a few templates available but we will add new templates in future. (see above screenshot)&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;updated-visual-camel-editor&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#updated-visual-camel-editor&quot;&gt;&lt;/a&gt;Updated Visual Camel Editor&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We are happy to show you the new Camel Editor :D&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;camel editor&quot; height=&quot;400&quot; src=&quot;http://tools.jboss.org/blog/images/fuse/8.0.0.GA/camel_editor.png&quot; width=&quot;640&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We’ve got a new diagram layout and new icons together with a search field inside the palette which allows easy lookup of palette items without the need to browse any drawers. The new layout improves the readability of your route. Another change has been made to allow showing all routes of a Camel Context file inside one editor. For those of you who liked the &quot;only one route&quot; approach more we added a &quot;Go Into&quot; button on the route’s button pad.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;You maybe also recognized a new tab in the editor from the above screenshot. We added the &quot;Configurations&quot; tab which can be used to handle elements which are not part of the route itself, like beans, global endpoint definitions and data formats. At the moment we have support for handling global endpoints and data formats. If you installed the SAP Tool Suite you can also add SAP Server definitions. More types will be added in future releases.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;For more information on this tab please have a look &lt;a href=&quot;http://tools.jboss.org/blog/EclipseFuseTooling-NewGlobalConfiguration.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;other&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#other&quot;&gt;&lt;/a&gt;Other&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;There have been some improvements in the validation of Camel files. Please have a look &lt;a href=&quot;http://tools.jboss.org/blog/eclipse-fuse-tooling-new-validation.html&quot;&gt;here&lt;/a&gt; for more information.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;We hope you enjoy the improvements and are looking forward to your feedback. Have fun!&lt;/strong&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Lars Heinemann&lt;/strong&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Thu, 06 Oct 2016 17:20:41 +0000</pubDate>
+</item>
+<item>
+	<title>Leo Ufimtsev: Make applications (Eclipse) use x11 backend on Wayland (Fedora 25)</title>
+	<guid isPermaLink="false">http://coffeeorientedprogramming.com/?p=502</guid>
+	<link>https://coffeeorientedprogramming.com/2016/10/06/make-applications-eclipse-use-x11-backend-on-wayland-fedora-25/</link>
+	<description>&lt;p&gt;&lt;img alt=&quot;wayland.jpg&quot; class=&quot;alignnone  wp-image-524 aligncenter&quot; height=&quot;90&quot; src=&quot;https://coffeeorientedprogramming.files.wordpress.com/2016/10/wayland.jpg?w=90&amp;amp;h=90&quot; width=&quot;90&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I upgraded to Fedora 25 (beta), which by default uses the new &lt;a href=&quot;https://en.wikipedia.org/wiki/Wayland_(display_server_protocol)&quot;&gt;Wayland&lt;/a&gt; display server, (which is a replacement for x11).&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;more-502&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Most applications work OK. Even copy and paste now works.However some applications have trouble.&lt;/p&gt;
+&lt;p&gt;Eclipse has some troubles. My observations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Menu bar disappears when you drag the window around.&lt;/li&gt;
+&lt;li&gt;Dialogues have a few button cut off, (apply, ok, cancle).&lt;/li&gt;
+&lt;li&gt;There is a delay of a bout ~1 second when you click on something.&lt;/li&gt;
+&lt;li&gt;Tabs get messed up if you click on one. (e.g they are split into left/right), it seems Dragging of parts is undesirably activated.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Overall, Eclipse isn’t quite usable on Wayland yet. However, efforts to improve Eclipse behavior on Wayland is under way:&lt;/p&gt;
+&lt;p&gt;Bug 496923 – [Wayland] Improve support for Wayland in 4.7&lt;br /&gt;
+&lt;a href=&quot;https://bugs.eclipse.org/bugs/show_bug.cgi?id=496923&quot;&gt;https://bugs.eclipse.org/bugs/show_bug.cgi?id=496923&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In the mean time, while in Wayland, you can force Eclipse to use the x11 backend:&lt;/p&gt;
+&lt;pre class=&quot;brush: bash; title: ; notranslate&quot;&gt;export GDK_BACKEND=x11
+./eclipse
+&lt;/pre&gt;
+&lt;p&gt;This can be used for other applications also. For example &lt;a href=&quot;https://github.com/guoci/autokey-py3&quot;&gt;Autokey&lt;/a&gt; is buggy on wayland, I used that for that app as well.&lt;/p&gt;
+&lt;p&gt;Hang on tight and follow the bug above for updates.&lt;/p&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/coffeeorientedprogramming.wordpress.com/502/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/coffeeorientedprogramming.wordpress.com/502/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=coffeeorientedprogramming.com&amp;amp;blog=74903670&amp;amp;post=502&amp;amp;subd=coffeeorientedprogramming&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Thu, 06 Oct 2016 13:53:15 +0000</pubDate>
+</item>
+<item>
+	<title>Andreas Graf: Using AspectJ to analyze exceptions in production systems</title>
+	<guid isPermaLink="false">http://5ise.quanxinquanyi.de/?p=1639</guid>
+	<link>http://5ise.quanxinquanyi.de/2016/10/05/using-aspectj-to-analyze-exceptions-in-production-systems/</link>
+	<description>&lt;p&gt;For several automotive customers, we are building (Eclipse-based) systems that process engineering data – not only interactively, but in nightly jobs. From time to time, there might be a problem in test or even production systems, throwing an exception.&lt;/p&gt;
+&lt;p&gt;The default of Java is obviously only to show the stack trace. For a quick analysis, you might also want to like to know which arguments have been passed to the method that the exception was thrown in.&lt;/p&gt;
+&lt;p&gt;We are using AspectJ to “weave” relevant plugins (we use runtime weaving). The aspect looks like this:&lt;/p&gt;&lt;pre class=&quot;crayon-plain-tag&quot;&gt;@Aspect
+public class ExceptionAspect {
+     @AfterThrowing(pointcut = &quot;execution(* my.package.to.be.debugged..*.*(..))&quot;, throwing = &quot;e&quot;)
+      public void myAfterThrowing(JoinPoint joinPoint, Throwable e) {
+
+        Signature signature = joinPoint.getSignature();
+        String methodName = signature.getName();
+        String stuff = signature.toString();
+        String arguments = Arrays.toString(joinPoint.getArgs());
+        System.err.println(&quot;EXCEPTION THROWN:  &quot;   + methodName + &quot; with arguments\n &quot;
+          
+            + arguments + &quot;\nand the full toString: &quot; + stuff + &quot;\nthe exception is: &quot;
+            + e.getMessage());
+      }
+}&lt;/pre&gt;&lt;p&gt;
+This adds an aspect that is executed after an exception has been thrown. It will print a string representation of the method’s arguments. If the exception is propagated, the arguments of all methods up the call stack will be printed in sequence.&lt;/p&gt;</description>
+	<pubDate>Wed, 05 Oct 2016 08:30:18 +0000</pubDate>
+</item>
+<item>
+	<title>JBoss Tools Team: JBoss Tools 4.4.2.AM1 for Eclipse Neon</title>
+	<guid isPermaLink="true">http://tools.jboss.org/blog/am1.4.4.2.neon.html</guid>
+	<link>http://tools.jboss.org/blog/am1.4.4.2.neon.html</link>
+	<description>&lt;div&gt;&lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Happy to announce 4.4.2.AM1 (Developer Milestone 1) build for Eclipse Neon.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Downloads available at &lt;a href=&quot;http://tools.jboss.org/downloads/jbosstools/neon/4.4.2.AM1.html&quot;&gt;JBoss Tools 4.4.2 AM1&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-is-new&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-is-new&quot;&gt;&lt;/a&gt;What is New?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Full info is at &lt;a href=&quot;http://tools.jboss.org/documentation/whatsnew/jbosstools/4.4.2.AM1.html&quot;&gt;this page&lt;/a&gt;. Some highlights are below.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;openshift-3&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#openshift-3&quot;&gt;&lt;/a&gt;OpenShift 3&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Although our main focus is bug fixes, we continue to work on providing better experience for container based development in JBoss Tools and Developer Studio. Let’s go through a few interesting updates here and you can find more details on &lt;a href=&quot;http://tools.jboss.org/documentation/whatsnew/jbosstools/4.4.2.AM1.html&quot;&gt;the What’s New page&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;cluster-common-namespace&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#cluster-common-namespace&quot;&gt;&lt;/a&gt;Cluster common namespace&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When looking for Openshift resources (builder images, templates), a common namespace is browsed.
+      Earlier hardcoded &lt;code&gt;openshift&lt;/code&gt; namespace is now configurable with default value &lt;code&gt;openshift&lt;/code&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;admonitionblock warning&quot;&gt;
+      &lt;table&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+      &lt;td class=&quot;icon&quot;&gt;
+      &lt;i class=&quot;fa icon-warning&quot; title=&quot;Warning&quot;&gt;&lt;/i&gt;
+      &lt;/td&gt;
+      &lt;td class=&quot;content&quot;&gt;
+      Please note that templates are still loaded from the &lt;code&gt;òpenshift&lt;/code&gt; namespace and not the from configured common namespace, this will be fixed for the next release.
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;It can be accessed and modified through the connection extended properties:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Connection extended properties&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/connection-extended-properties-namespace.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;cdk-server-using-native-terminal-for-better-user-interactions&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#cdk-server-using-native-terminal-for-better-user-interactions&quot;&gt;&lt;/a&gt;CDK server using native terminal for better user interactions&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The CDK server adapter now uses a native terminal that allows better interaction with the user.
+      In the case credentials are not passed in the Vagrant environment, the user will be asked just as with
+      the standard Vagrant CLI and in case of registration failures, retries will be performed.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;First, make sure your CDK server adapter is configured not to pass credentials:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;CDK editor&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/cdk-editor-no-credentials-pass.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Then, start the CDK server adapter and a new terminal window will open, asking for regsitration:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Registration&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/cdk-terminal-asks-for-registration.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;If you answered &lt;code&gt;y&lt;/code&gt; to the previous questions, then the terminal window will ask for username:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Username&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/cdk-terminal-asks-for-username.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Then the terminal window will ask for password:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Password&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/cdk-terminal-asks-for-password.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;If the registration fails, then the terminal window will perform retries and ask again for username and password:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Password&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/cdk-terminal-asks-for-password2.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Enjoy!&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Jeff Maury&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Mon, 03 Oct 2016 15:33:45 +0000</pubDate>
+</item>
+<item>
+	<title>Philip Wenig: ChemClipse 0.7.0 released</title>
+	<guid isPermaLink="false">http://openchrom.wordpress.com/?p=472</guid>
+	<link>https://openchrom.wordpress.com/2016/10/02/chemclipse-0-7-0-released/</link>
+	<description>&lt;p&gt;I proudly announce the &lt;strong&gt;official release&lt;/strong&gt; of &lt;strong&gt;ChemClipse 0.7.0&lt;/strong&gt;!&lt;br /&gt;
+&lt;a href=&quot;https://projects.eclipse.org/projects/technology.chemclipse/downloads&quot; target=&quot;_blank&quot;&gt;https://projects.eclipse.org/projects/technology.chemclipse/downloads&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openchrom.files.wordpress.com/2016/10/chemclipse-0-7-0.png&quot;&gt;&lt;img alt=&quot;chemclipse-0-7-0&quot; class=&quot;alignnone size-large wp-image-473&quot; height=&quot;360&quot; src=&quot;https://openchrom.files.wordpress.com/2016/10/chemclipse-0-7-0.png?w=640&amp;amp;h=360&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;But hey, what’s the difference between &lt;a href=&quot;https://openchrom.net&quot; target=&quot;_blank&quot;&gt;OpenChrom&lt;/a&gt; and &lt;a href=&quot;https://projects.eclipse.org/projects/technology.chemclipse&quot; target=&quot;_blank&quot;&gt;ChemClipse&lt;/a&gt;?&lt;/strong&gt;&lt;br /&gt;
+It’s quite simple: There’s no difference. ChemClipse is the base for the OpenChrom Community and Enterprise Edition. One could compare it to the strategy &lt;a href=&quot;https://www.redhat.com&quot; target=&quot;_blank&quot;&gt;RedHat&lt;/a&gt; runs. ChemClipse is the equivalent to &lt;a href=&quot;https://getfedora.org&quot; target=&quot;_blank&quot;&gt;Fedora&lt;/a&gt; and the OpenChrom Enterprise Edition the equivalent to &lt;a href=&quot;https://www.redhat.com/de/technologies/linux-platforms/enterprise-linux&quot; target=&quot;_blank&quot;&gt;RHEL&lt;/a&gt;. We as a company have a strong open source and collaboration commitment. We try to migrate as much of our code as possible to the Eclipse Foundation. Currently, we use the following setup:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ChemClipse&lt;/strong&gt; (IP reviewed code and release)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OpenChrom Community Edition&lt;/strong&gt; (Incubator for new collaborations and projects)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OpenChrom Enterprise Edition&lt;/strong&gt; (Commercial service and support for laboratories/customers)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Also have a look at our new blog:&lt;br /&gt;
+&lt;a href=&quot;https://spectrometrylab.wordpress.com&quot; target=&quot;_blank&quot;&gt;https://spectrometrylab.wordpress.com&lt;/a&gt;&lt;/p&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=openchrom.wordpress.com&amp;amp;blog=25006439&amp;amp;post=472&amp;amp;subd=openchrom&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Sun, 02 Oct 2016 12:06:25 +0000</pubDate>
+</item>
+<item>
+	<title>VIATRA: VIATRA 1.4 released</title>
+	<guid isPermaLink="false">5614faafe4b03f677dc3822b:56153118e4b022593e35e24b:57ee7657d482e91562fecabd</guid>
+	<link>http://viatra.net/news/2016/9/viatra-14-released</link>
+	<description>&lt;p&gt;The &lt;a href=&quot;http://eclipse.org/viatra&quot; target=&quot;_blank&quot;&gt;VIATRA project&lt;/a&gt; is happy to report that release 1.4.0 is now available with multiple new features and fixed bugs.&lt;/p&gt;&lt;p&gt;The most notable highlights of this VIATRA release include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://wiki.eclipse.org/VIATRA/Releases/NewAndNoteworthy1.4#Local_search_support_during_query_evaluation&quot; target=&quot;_blank&quot;&gt;Local Search&lt;/a&gt;-based model query evaluation&lt;/strong&gt;: In order to execute model queries with a smaller memory footprint, an alternative query backend was enabled. For backwards compatibility, this search-based backend is not turned on by default, but has to be requested manually.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://wiki.eclipse.org/VIATRA/Releases/NewAndNoteworthy1.4#Query_development_environment_improvements&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Development environment&lt;/strong&gt;&lt;strong&gt; updates&lt;/strong&gt;&lt;/a&gt;: The update of the query and transformation development environment has continued during this release, and the new views are now the recommended way to use for debugging model queries.&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://wiki.eclipse.org/VIATRA/Releases/NewAndNoteworthy1.3#Model_transformation_debugger_prototype&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Query Language Updates&lt;/strong&gt;&lt;/a&gt;: In version 1.4 the query language was extended with a set of new features, most notable the support for aggregators, such as &lt;em&gt;sum&lt;/em&gt; or &lt;em&gt;min&lt;/em&gt;, or the explicit specification of the required query backend.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For a more complete list of changes, see the dedicated &lt;a href=&quot;https://wiki.eclipse.org/VIATRA/Releases/NewAndNoteworthy1.4&quot; target=&quot;_blank&quot;&gt;New and noteworthy&lt;/a&gt; page, or have a look at the list of &lt;a href=&quot;https://projects.eclipse.org/projects/modeling.viatra/releases/1.4.0/bugs&quot; target=&quot;_blank&quot;&gt;fixed issues&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;All downloads are available now from the &lt;a href=&quot;https://www.eclipse.org/viatra/downloads.php&quot; target=&quot;_blank&quot;&gt;downloads area&lt;/a&gt; or the &lt;a href=&quot;http://marketplace.eclipse.org/content/viatra&quot; target=&quot;_blank&quot;&gt;marketplace&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Feel free to reach out on the Eclipse Forums of VIATRA or the developer mailing list if you have questions, we will not leave any unanswered. You can also request &lt;a href=&quot;http://incquerylabs.com/&quot; target=&quot;_blank&quot;&gt;industrial support&lt;/a&gt; for more advanced issues.&lt;/p&gt;</description>
+	<pubDate>Sat, 01 Oct 2016 19:43:22 +0000</pubDate>
+</item>
+<item>
+	<title>Konstantin Komissarchik: Announcing Sapphire 9.1 and 8.3 Releases</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-2913369703414801920.post-2317643171823488612</guid>
+	<link>http://lt-rider.blogspot.com/2016/09/announcing-sapphire-91-and-83-releases.html</link>
+	<description>Sapphire &lt;a href=&quot;http://www.eclipse.org/sapphire/releases/9.1&quot;&gt;9.1&lt;/a&gt; 
+and &lt;a href=&quot;http://www.eclipse.org/sapphire/releases/8.3&quot;&gt;8.3&lt;/a&gt; releases 
+are now available. These releases introduce TextSelectionService that allows the framework 
+users to observe and manipulate the selection in a text property
+        editor. Additionally, a number of fixes have been made to the 
+localization system. Sapphire &lt;a href=&quot;http://www.eclipse.org/sapphire/releases/8.3&quot;&gt;8.3&lt;/a&gt; is intended for 
+adopters who are not yet able to require Java 8.</description>
+	<pubDate>Fri, 30 Sep 2016 20:45:51 +0000</pubDate>
+	<author>noreply@blogger.com (Konstantin Komissarchik)</author>
+</item>
+<item>
+	<title>itemis: Using Xtext with Xcore and Gradle</title>
+	<guid isPermaLink="true">https://blogs.itemis.com/en/using-xtext-with-xcore-and-gradle</guid>
+	<link>https://blogs.itemis.com/en/using-xtext-with-xcore-and-gradle</link>
+	<description>&lt;p&gt;Xtext derives a metamodel from the grammar file by default. For more complex languages it is often better to define the metamodel &lt;span&gt;manually &lt;/span&gt;since it allows much more control over the AST, the abstract syntax tree. The metamodel has to be an EMF metamodel, which could be defined in Ecore or &lt;a href=&quot;https://wiki.eclipse.org/Xcore&quot;&gt;Xcore&lt;/a&gt;. &lt;span class=&quot;s1&quot;&gt;In this article I will show you the setup to build the model project and how to integrate it into the project build.&lt;/span&gt;&lt;/p&gt;  
+&lt;p&gt;The Xcore SDK allows to define the metamodel in a DSL which has some advantages against the definition in Ecore. However, using Xcore adds some complexity to the toolchain. Some of these implications are adressed by Holger Schill's presentation &lt;a href=&quot;http://de.slideshare.net/holgerschill/using-xcore-with-xtext&quot;&gt;&quot;Using Xcore models with Xtext&quot;&lt;/a&gt;. The presentation also covers the build integration aspect, but with Maven and with the &quot;old&quot; Xtext generator workflows.&lt;/p&gt; 
+&lt;p&gt;Nowadays often &lt;a href=&quot;https://gradle.org/&quot;&gt;Gradle&lt;/a&gt; is chosen as the build system to use. The new Xtext project wizard introduced with Xtext 2.9 allows to choose Gradle as the build system and produces the necessary build files for the projects. When using Xtext's web integration it is even mandatory at this time to use Gradle.&lt;/p&gt; 
+&lt;p&gt;The problem now is that when an Xcore metamodel should be used, there is not much known on how to integrate Xcore in a Gradle build. At GitHub there is a &lt;a href=&quot;https://github.com/ghillairet/xcore-gradle-example&quot;&gt;xcore-gradle-example&lt;/a&gt;, but this only works with Gradle 2.7 and not with the current version 3.1. Further, it uses the old Xtext gradle plugin and not the new &lt;a href=&quot;http://xtext.github.io/xtext-gradle-plugin/xtext-builder.html&quot;&gt;Xtext Builder Plugin&lt;/a&gt;.&lt;/p&gt; 
+&lt;p&gt;This article shows an example which uses the following technology stack:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Xtext 2.10&lt;/li&gt; 
+ &lt;li&gt;Gradle 3.1&lt;/li&gt; 
+ &lt;li&gt;Xcore 1.3.1&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;All sources are available in our &lt;a href=&quot;https://github.com/itemis/itemis-blog/tree/xcore_gradle&quot;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt; 
+&lt;h3&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/README.md#project-creation&quot;&gt;&lt;/a&gt;Project Creation&lt;/h3&gt; 
+&lt;p&gt;As a reference the default &quot;Greeting DSL&quot; is used which is produced by the Xtext project wizard. The following options where chosen on the &lt;em&gt;Advanced Xtext Configuration&lt;/em&gt; page:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Web Integration&lt;/li&gt; 
+ &lt;li&gt;Generic IDE Support&lt;/li&gt; 
+ &lt;li&gt;Preferred Build System: Gradle&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;This creates the following projects:&lt;/p&gt; 
+&lt;pre class=&quot;prettyprint&quot;&gt;org.eclipse.example.mydsl.parent
+|
++--org.eclipse.example.mydsl
+|
++--org.eclipse.example.mydsl.ide
+|
++--org.eclipse.example.mydsl.web
+&lt;/pre&gt; 
+&lt;p&gt;For the parent project the latest gradle wrapper was added:&lt;/p&gt; 
+&lt;pre class=&quot;prettyprint&quot;&gt;gradle wrapper --gradle-version 3.1
+&lt;/pre&gt; 
+&lt;h3&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/README.md#model-project&quot;&gt;&lt;/a&gt;Model Project&lt;/h3&gt; 
+&lt;p&gt;The Xcore model should be defined in a separate subproject &lt;code&gt;org.eclipse.example.mydsl.model&lt;/code&gt;. The new project is added as a subproject to the &lt;code&gt;settings.gradle&lt;/code&gt; of the parent project:&lt;/p&gt; 
+&lt;pre class=&quot;prettyprint&quot;&gt;include 'org.xtext.example.mydsl.model' include 'org.xtext.example.mydsl' ... &amp;gt;&lt;/pre&gt; 
+&lt;p&gt;It contains the Xcore model &lt;a href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/org.xtext.example.mydsl.parent/org.xtext.example.mydsl.model/src/mydsl.xcore&quot;&gt;&lt;code&gt;mydsl.xcore&lt;/code&gt;&lt;/a&gt; in the folder &lt;code&gt;src&lt;/code&gt;. The declared metamodel is equivalent to the one that Xtext would generate from the grammar definition:&lt;/p&gt; 
+&lt;pre class=&quot;prettyprint&quot;&gt;@Ecore(nsPrefix=&quot;mydsl&quot;,nsURI=&quot;http://www.xtext.org/example/mydsl/MyDsl&quot;)
+@GenModel(
+    bundleManifest=&quot;false&quot;,
+    modelDirectory=&quot;org.xtext.example.mydsl.model/build/xcore/main&quot;, 
+    complianceLevel=&quot;8.0&quot;
+)
+package org.xtext.example.mydsl
+
+class Model {
+    contains Greeting[] greetings
+}
+
+class Greeting {
+    String name
+}
+&lt;/pre&gt; 
+&lt;p&gt;Note that the model directory is &lt;code&gt;org.xtext.example.mydsl.model/build/xcore/main&lt;/code&gt;. This directory is added as a source folder to the project.&lt;/p&gt; 
+&lt;p&gt;To build the project with Gradle the following &lt;a href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/org.xtext.example.mydsl.parent/org.xtext.example.mydsl.model/build.gradle&quot;&gt;&lt;code&gt;build.gradle&lt;/code&gt;&lt;/a&gt; is used:&lt;/p&gt; 
+&lt;pre class=&quot;prettyprint&quot;&gt;dependencies {
+    compile &quot;org.eclipse.xtext:org.eclipse.xtext:${xtextVersion}&quot;
+    compile &quot;org.eclipse.xtext:org.eclipse.xtext.xbase:${xtextVersion}&quot;
+    compile 'org.eclipse.emf:org.eclipse.emf.ecore.xcore.lib:+'
+
+    xtextLanguages 'org.eclipse.emf:org.eclipse.emf.ecore.xcore:+'
+    xtextLanguages 'org.eclipse.emf:org.eclipse.emf.ecore.xcore.lib:+'
+    xtextLanguages 'org.eclipse.emf:org.eclipse.emf.codegen.ecore:+'
+    xtextLanguages 'org.eclipse.emf:org.eclipse.emf.codegen.ecore.xtext:+'
+    xtextLanguages &quot;org.eclipse.xtext:org.eclipse.xtext.ecore:${xtextVersion}&quot;
+
+}
+
+sourceSets {
+    main {
+        resources {
+            exclude '**/*.xcore'
+        }
+    }
+}
+
+xtext {
+    version = &quot;${xtextVersion}&quot;
+    languages {
+        ecore {
+            setup = 'org.eclipse.xtext.ecore.EcoreSupport'
+        }
+        codegen {
+            setup = 'org.eclipse.emf.codegen.ecore.xtext.GenModelSupport'
+        }
+        xcore {
+            setup = 'org.eclipse.emf.ecore.xcore.XcoreStandaloneSetup'
+            generator.outlet.producesJava = true
+        }
+    }
+}
+&lt;/pre&gt; 
+&lt;p&gt;The main part is the configuration of the &lt;a href=&quot;http://xtext.github.io/xtext-gradle-plugin/xtext-builder.html&quot;&gt;&lt;code&gt;xtext-builder-plugin&lt;/code&gt;&lt;/a&gt;. &lt;code&gt;EcoreSupport&lt;/code&gt; and &lt;code&gt;GenModelSupport&lt;/code&gt; have to be added as languages, since they are used by Xcore. For Xcore the &lt;code&gt;producesJava&lt;/code&gt; flag has to be set, so that the produced Java classes are compiled and packaged in the resulting jar file.&lt;/p&gt; 
+&lt;p&gt;In the &lt;span style=&quot;font-family: courier new,courier;&quot;&gt;sourceSets&lt;/span&gt; section &lt;span style=&quot;font-family: courier new,courier;&quot;&gt;.xcore&lt;/span&gt; files are excluded from resources. Without that setting Gradle would copy the &lt;span style=&quot;font-family: courier new,courier;&quot;&gt;.xcore&lt;/span&gt; file during the build and within Eclipse there would be unwanted duplication errors.&lt;/p&gt; 
+&lt;h3&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/README.md#runtime-project&quot;&gt;&lt;/a&gt;Runtime Project&lt;/h3&gt; 
+&lt;p&gt;In the DSL runtime project we have to make some changes in order to use the metamodel defined with Xcore.&lt;/p&gt; 
+&lt;p&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/README.md#buildgradle&quot;&gt;&lt;/a&gt;&lt;strong&gt;build.gradle&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;First, a build dependency has to be added to the &lt;a href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/build.gradle&quot;&gt;&lt;code&gt;build.gradle&lt;/code&gt;&lt;/a&gt; file:&lt;/p&gt; 
+&lt;pre class=&quot;prettyprint&quot;&gt;dependencies {
+    compile project(':org.xtext.example.mydsl.model')
+    ...
+}
+&lt;/pre&gt; 
+&lt;p&gt;Next, two additional dependencies have to be added to the &lt;code&gt;mwe2&lt;/code&gt; configuration:&lt;/p&gt; 
+&lt;pre class=&quot;prettyprint&quot;&gt;dependencies {
+    mwe2 &quot;org.eclipse.emf:org.eclipse.emf.mwe2.launch:2.8.3&quot;
+    mwe2 &quot;org.eclipse.xtext:org.eclipse.xtext.xtext.generator:${xtextVersion}&quot;
+    // added for Xcore support
+    mwe2 'org.eclipse.emf:org.eclipse.emf.ecore.xcore:+'
+    mwe2 'org.eclipse.emf:org.eclipse.emf.codegen.ecore.xtext:+'
+}
+&lt;/pre&gt; 
+&lt;p&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/README.md#dsl-grammar&quot;&gt;&lt;/a&gt;&lt;strong&gt;DSL Grammar&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Since the grammar's metamodel should not be generated anymore the grammar definition &lt;a href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/src/org/xtext/example/mydsl/MyDsl.xtext&quot;&gt;&lt;code&gt;MyDsl.xtext&lt;/code&gt;&lt;/a&gt; has to be changed slightly. Instead of declaring the Ecore package to &lt;code&gt;generate&lt;/code&gt;, we &lt;code&gt;import&lt;/code&gt; it:&lt;/p&gt; 
+&lt;pre class=&quot;prettyprint&quot;&gt;grammar org.xtext.example.mydsl.MyDsl with org.eclipse.xtext.common.Terminals
+
+import &quot;http://www.xtext.org/example/mydsl/MyDsl&quot;
+
+Model:
+    greetings+=Greeting*;
+
+Greeting:
+    'Hello' name=ID '!';
+&lt;/pre&gt; 
+&lt;p&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/README.md#xtext-generator-workflow&quot;&gt;&lt;/a&gt;&lt;strong&gt;Xtext Generator Workflow&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;Also the generator workflow file &lt;a href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/src/org/xtext/example/mydsl/GenerateMyDsl.mwe2&quot;&gt;&lt;code&gt;GenerateMyDsl.mwe2&lt;/code&gt;&lt;/a&gt; has to be changed to use the manually defined metamodel.&lt;/p&gt; 
+&lt;p&gt;First, the model project &lt;code&gt;org.xtext.example.mydsl.model&lt;/code&gt; is declared using a project mapping:&lt;/p&gt; 
+&lt;pre class=&quot;prettyprint&quot;&gt;bean = org.eclipse.emf.mwe.utils.StandaloneSetup {
+    projectMapping = {
+        path = &quot;${rootPath}/org.xtext.example.mydsl.model&quot;
+        projectName = &quot;org.xtext.example.mydsl.model&quot;
+    }
+}
+&lt;/pre&gt; 
+&lt;p&gt;This is required in order to reference the &lt;code&gt;mydsl.xcore&lt;/code&gt; file later with a platform resource URI. Without this registration, the platform URI cannot be mapped. The &lt;code&gt;mydsl.xcore&lt;/code&gt; file is now declared as a &lt;code&gt;referencedResource&lt;/code&gt; for the MyDSL language configuration:&lt;/p&gt; 
+&lt;pre class=&quot;prettyprint&quot;&gt;language = StandardLanguage {
+    name = &quot;org.xtext.example.mydsl.MyDsl&quot;
+    fileExtensions = &quot;mydsl&quot;
+
+    referencedResource = &quot;platform:/resource/org.xtext.example.mydsl.model/src/mydsl.xcore&quot;
+    ...
+}
+&lt;/pre&gt; 
+&lt;p&gt;&lt;strong&gt;Standalone Setup&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;When &lt;span&gt;not&lt;/span&gt; using the DSL in the context of an Eclipse plugin, the metamodel's EPackage has to be registered in the EPackage registry. For the case that the metamodel is automatically generated, Xtext takes care of that registration in the generated base class of the DSL's standalone setup class.&lt;/p&gt; 
+&lt;p&gt;Since the metamodel is not automatically registered in the case that it defines manually, the standalone setup class &lt;a href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/src/org/xtext/example/mydsl/MyDslStandaloneSetup.xtend&quot;&gt;&lt;code&gt;MyDslStandaloneSetup&lt;/code&gt;&lt;/a&gt; has to be extended to do the registration process explicitly:&lt;/p&gt; 
+&lt;pre class=&quot;prettyprint&quot;&gt;class MyDslStandaloneSetup extends MyDslStandaloneSetupGenerated {
+
+    def static void doSetup() {
+        new MyDslStandaloneSetup().createInjectorAndDoEMFRegistration()
+    }
+
+    override register(Injector injector) {
+        if (!EPackage.Registry.INSTANCE.containsKey(MydslPackage.eNS_URI)) {
+            EPackage.Registry.INSTANCE.put(MydslPackage.eNS_URI, MydslPackage.eINSTANCE);
+        }
+        super.register(injector)
+    }
+}
+&lt;/pre&gt; 
+&lt;h3&gt;Overview&lt;/h3&gt; 
+&lt;p&gt;The following image shows the resulting project structure with the files &lt;a href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/org.xtext.example.mydsl.parent/org.xtext.example.mydsl.model/src/mydsl.xcore&quot;&gt;&lt;code&gt;mydsl.xcore&lt;/code&gt;&lt;/a&gt;, &lt;a href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/src/org/xtext/example/mydsl/MyDsl.xtext&quot;&gt;&lt;code&gt;MyDsl.xtext&lt;/code&gt;&lt;/a&gt; and &lt;a href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/org.xtext.example.mydsl.parent/org.xtext.example.mydsl/src/org/xtext/example/mydsl/GenerateMyDsl.mwe2&quot;&gt;&lt;code&gt;GenerateMyDsl.mwe2&lt;/code&gt;&lt;/a&gt;:&lt;/p&gt; 
+&lt;p&gt;&lt;a href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/images/xcore_gradle_structure.png&quot;&gt;&lt;img alt=&quot;xcore_gradle_structure.png&quot; src=&quot;https://github.com/itemis/itemis-blog/raw/xcore_gradle/images/xcore_gradle_structure.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt; 
+&lt;h3&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://github.com/itemis/itemis-blog/blob/xcore_gradle/README.md#conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h3&gt; 
+&lt;p&gt;Using an Xcore metamodel for an Xtext grammar requires an additional subproject which holds the Xcore definition. The article showed the necessary setup to build the model project with Gradle and integrate it into the project build.&lt;/p&gt; 
+&lt;p&gt;Some additional changes have to be done to the Xtext grammar to use the predefined metamodel and to integrate it into Xtext's generator workflow, but &lt;span&gt;it's worth the effort &lt;/span&gt;especially when it comes to more complex languages.&lt;/p&gt; 
+&lt;p&gt;The Gradle build configuration is a bit tricky, but taking &lt;a href=&quot;https://github.com/itemis/itemis-blog/tree/xcore_gradle&quot;&gt;this project&lt;/a&gt; as a reference it should be mostly copy/paste work.&lt;/p&gt;  
+&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://track.hubspot.com/__ptq.gif?a=761475&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblogs.itemis.com%2Fen%2Fusing-xtext-with-xcore-and-gradle&amp;amp;bu=https%253A%252F%252Fblogs.itemis.com&amp;amp;bvt=rss&quot; style=&quot;width: 1px!important;&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 30 Sep 2016 07:16:00 +0000</pubDate>
+	<author>thoms@itemis.de (Karsten Thoms)</author>
+</item>
+<item>
+	<title>Antoine Thomas: Video – Eclipse Marketplace &amp; Favourites List</title>
+	<guid isPermaLink="false">http://blog.ttoine.net/?p=1148</guid>
+	<link>http://blog.ttoine.net/en/2016/09/29/video-eclipse-marketplace-favourites-list/</link>
+	<description>&lt;p&gt;Following my recent series of articles about the Eclipse Marketplace Client, I have recorded a short video tutorial to show you how to use favourites lists on Eclipse.org and in Eclipse:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add / remove plugins in your favourites list on &lt;a href=&quot;https://marketplace.eclipse.org/&quot;&gt;marketplace.eclipse.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add / remove plugins in your favourites list with the &lt;a href=&quot;https://www.eclipse.org/mpc/&quot;&gt;Eclipse Marketplace Client&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Import the favourites list from an Eclipse Community user in the Marketplace Client&lt;/li&gt;
+&lt;li&gt;Share your favourites &lt;img alt=&quot;🙂&quot; class=&quot;wp-smiley&quot; src=&quot;https://s.w.org/images/core/emoji/2/72x72/1f642.png&quot; style=&quot;height: 1em;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here are a few favourites lists that I would like to share with you. You can import them directly by copying and pasting the link in Eclipse Marketplace Client:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Java – Lars Vogel&lt;br /&gt;
+&lt;a href=&quot;https://marketplace.eclipse.org/user/lvogel/favorites&quot;&gt;https://marketplace.eclipse.org/user/lvogel/favorites&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;C / C++ – Doug Schaefer&lt;br /&gt;
+&lt;a href=&quot;https://marketplace.eclipse.org/user/dschaefer/favorites&quot;&gt;https://marketplace.eclipse.org/user/dschaefer/favorites&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Modelling (Sirius) – Cédric Brun&lt;br /&gt;
+&lt;a href=&quot;https://marketplace.eclipse.org/user/cbrun/favorites&quot;&gt;https://marketplace.eclipse.org/user/cbrun/favorites&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So? What are your favourite plugins and packages on Eclipse Marketplace? Build your list, and share it with your team. We encourage you to share your lists with us on Twitter using &lt;span style=&quot;font-weight: 400;&quot;&gt;#EclipseMarketplace.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Watch the video on Youtube:&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+	<pubDate>Thu, 29 Sep 2016 19:32:25 +0000</pubDate>
+</item>
+<item>
+	<title>Webtools News: The Web Tools Platform project is officially in the Eclipse Marketplace</title>
+	<guid isPermaLink="false">http://www.eclipse.org/webtools/news.php#permalink175</guid>
+	<link>https://marketplace.eclipse.org/content/eclipse-java-ee-developer-tools-0</link>
+	<description>&lt;div&gt;
+ The Web Tools Platform can now be installed using the
+ &lt;a href=&quot;http://marketplace.eclipse.org/&quot;&gt;Eclipse Marketplace&lt;/a&gt;
+ . Selections are offered for the full
+ &lt;a href=&quot;https://marketplace.eclipse.org/content/eclipse-java-ee-developer-tools-0&quot;&gt;Java EE&lt;/a&gt;
+			tools, just the main
+			&lt;a href=&quot;https://marketplace.eclipse.org/content/eclipse-web-developer-tools-0&quot;&gt;Open Web Standards&lt;/a&gt;, and for those seeking
+			&lt;a href=&quot;https://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools-0&quot;&gt;XML Editors&lt;/a&gt;
+			.&lt;br /&gt;&lt;br /&gt;
+			Although installation has been tested on Juno and newer, Neon.1 remains the supported version, and anyone
+			still on an older release is encouraged to upgrade to it and the latest supported Java Runtime.
+&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://www.eclipse.org/webtools/news.php#permalink175&quot;&gt;More news&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 29 Sep 2016 16:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Maximilian and Jonas: EMF Forms and EMF Client Platform 1.10.0 released!</title>
+	<guid isPermaLink="false">http://eclipsesource.com/blogs/?p=27240</guid>
+	<link>http://eclipsesource.com/blogs/2016/09/29/emf-forms-and-emf-client-platform-1-10-0-released/</link>
+	<description>&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are happy to announce that together with Neon, we have released  &lt;/span&gt;&lt;a href=&quot;http://eclipse.org/ecp/emfforms&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;EMF Forms&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; and &lt;/span&gt;&lt;a href=&quot;http://eclipse.org/ecp&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;EMF Client Platform&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; 1.10.0! &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We want to thank all committers and contributors for their work as well as the active ecosystem of users and adopters for the feedback and support!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Both projects have been amazing successes since their inception over 5 years ago. We are proud of having a continuously active team of &lt;/span&gt;&lt;b&gt;12 contributors and 33 contributors&lt;/b&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; over all.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;EMF Forms is a framework focused on the creation of form-based UIs. EMF Client Platform is designed to support the development of applications based on an EMF data model. If you are not yet familiar with EMF Forms, please refer to &lt;/span&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/tutorials/getting-started-with-EMF-Forms/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;this tutorial&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for a introduction.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Both frameworks are part of Eclipse Modeling Tools Neon.1, but you can also find the new release on our download pages:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;a href=&quot;http://eclipse.org/ecp/download.html&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Download EMF Client Platform&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;a href=&quot;http://eclipse.org/ecp/emfforms/download.html&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Download EMF Forms&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We will give a &lt;/span&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2016/session/emf-forms-past-present-and-features&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;talk&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; at &lt;/span&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2016/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;EclipseCon Europe 2016&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; also introducing the new features, so make sure &lt;/span&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2016/registration&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;you register soon&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You might have noticed, that we have started on a new renderer for EMF Forms based on a native web stack (using AngularJS and JSON Schema) called &lt;/span&gt;&lt;a href=&quot;http://jsoforms.org&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;JSON Forms&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. We see it as the optimal complement for EMF Forms and hope to make the idea of declarative UI development even more attractive. We are amazed by the progress of JSON Forms and we will soon start a blog series to introduce it more in detail in November. Even earlier you can get more details about JSON Forms in our talk at EclipseCon Europe on October 27th – &lt;/span&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2016/session/more-forms-less&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;More forms – less &amp;lt;/code&amp;gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;However, as you can see in the EMF Forms / ECP repository, we have not in any way reduced our effort for the existing frameworks and do not have any plans to do so.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As always, we will also blog about new features of the EMF Forms / ECP 1.10.0 release in the upcoming weeks! Please follow this blog or follow us on twitter to get notified about the new posts.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;div style=&quot;display: inline-block;&quot;&gt;&lt;a href=&quot;https://twitter.com/intent/tweet?source=webclient&amp;amp;text=EMF+Forms+and+EMF+Client+Platform+1.10.0+released%21&amp;amp;via=eclipsesource&amp;amp;url=http://eclipsesource.com/blogs/2016/09/29/emf-forms-and-emf-client-platform-1-10-0-released/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;&lt;img alt=&quot;Twitter&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/twitter.png&quot; title=&quot;Twitter&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://plus.google.com/share?url=http://eclipsesource.com/blogs/2016/09/29/emf-forms-and-emf-client-platform-1-10-0-released/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;+1&quot;&gt;&lt;img alt=&quot;Google+&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/google_plus.png&quot; title=&quot;Google+&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.linkedin.com/cws/share?url=http://eclipsesource.com/blogs/2016/09/29/emf-forms-and-emf-client-platform-1-10-0-released/&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Share on LinkedIn&quot;&gt;&lt;img alt=&quot;LinkedIn&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/linkedin.png&quot; title=&quot;LinkedIn&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=http://eclipsesource.com/blogs/2016/09/29/emf-forms-and-emf-client-platform-1-10-0-released/&amp;amp;t=EMF+Forms+and+EMF+Client+Platform+1.10.0+released%21&quot; style=&quot;margin-right: 5px;&quot; target=&quot;_blank&quot; title=&quot;Facebook&quot;&gt;&lt;img alt=&quot;Facebook&quot; src=&quot;http://eclipsesource.com/blogs/wp-content/plugins/custom-about-author/images/social_media/facebook.png&quot; title=&quot;Facebook&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;a href=&quot;http://eclipsesource.com/blogs/2016/09/29/emf-forms-and-emf-client-platform-1-10-0-released/#respond&quot;&gt;Leave a Comment&lt;/a&gt;. Tagged with &lt;a href=&quot;http://eclipsesource.com/blogs/tag/ecp/&quot; title=&quot;ecp Tag&quot;&gt;ecp&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/emf/&quot; title=&quot;emf Tag&quot;&gt;emf&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/emf-forms/&quot; title=&quot;emf forms Tag&quot;&gt;emf forms&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/json/&quot; title=&quot;JSON Tag&quot;&gt;JSON&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/json-forms/&quot; title=&quot;json forms Tag&quot;&gt;json forms&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/jsonschema/&quot; title=&quot;JSONSchema Tag&quot;&gt;JSONSchema&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/ecp/&quot; title=&quot;ecp Tag&quot;&gt;ecp&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/emf/&quot; title=&quot;emf Tag&quot;&gt;emf&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/emf-forms/&quot; title=&quot;emf forms Tag&quot;&gt;emf forms&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/json/&quot; title=&quot;JSON Tag&quot;&gt;JSON&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/json-forms/&quot; title=&quot;json forms Tag&quot;&gt;json forms&lt;/a&gt;, &lt;a href=&quot;http://eclipsesource.com/blogs/tag/jsonschema/&quot; title=&quot;JSONSchema Tag&quot;&gt;JSONSchema&lt;/a&gt;&lt;p&gt;&lt;/p&gt;</description>
+	<pubDate>Thu, 29 Sep 2016 14:22:17 +0000</pubDate>
+</item>
+<item>
+	<title>Lars Vogel: Welcome Sergey Prigogin from Google in the PMC of the Top-Level Eclipse Project</title>
+	<guid isPermaLink="false">http://blog.vogella.com/?p=7494</guid>
+	<link>http://blog.vogella.com/2016/09/29/welcome-sergey-prigogin-from-google-in-the-pmc-of-the-top-level-eclipse-project/</link>
+	<description>&lt;p&gt;I would like to welcome Sergey in the Eclipse Project Management Committee (PMC) for the &lt;a href=&quot;https://projects.eclipse.org/projects/eclipse/who&quot;&gt;Eclipse Top Level Project&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;I think of Sergey as a friend and I’m very happy that he joins our team. Based on what I have seen of his work in Platform UI, he focuses on clean and easy to use API, code cleanup and process simplifications. Sergey contributed the UI freeze monitor and together with his team (most notable Stefan Xenos) he works on improving the interactive performance of the Eclipse IDE. &lt;/p&gt;
+&lt;p&gt;Welcome Sergey!&lt;/p&gt;</description>
+	<pubDate>Thu, 29 Sep 2016 08:37:13 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Eclipse Neon.1 - New and Noteworthy</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/4RkUmBOLalM/</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/4RkUmBOLalM/</link>
+	<description>Neon.1 release is landing today! Read what's new and noteworthy.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/4RkUmBOLalM&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Wed, 28 Sep 2016 15:54:01 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Eclipse Neon.1 - 10 Improvements Video</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/Hyx1IhdhQF4/watch</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/Hyx1IhdhQF4/watch</link>
+	<description>Thank you Holger Voormann for putting together this great Neon.1 video!&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/Hyx1IhdhQF4&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Wed, 28 Sep 2016 14:43:35 +0000</pubDate>
+</item>
+<item>
+	<title>Holger Voormann: Eclipse Neon.1: 4:00-minute demo of 10 improvements</title>
+	<guid isPermaLink="false">http://eclipsehowl.wordpress.com/?p=1143</guid>
+	<link>https://eclipsehowl.wordpress.com/2016/09/28/eclipse-neon-1-400-minute-demo-of-10-improvements/</link>
+	<description>&lt;p&gt;Eclipse Neon.1 has arrived. Watch a 4:00-minute demo of 10 &lt;strong&gt;Eclipse Neon.1 improvements&lt;/strong&gt;, including the IDE/platform, Java (&lt;a href=&quot;https://www.eclipse.org/windowbuilder/&quot;&gt;WindowBuilder&lt;/a&gt; and &lt;a href=&quot;http://www.eclipse.org/recommenders/&quot;&gt;Code Recommenders&lt;/a&gt;), Web/JavaScript and &lt;a href=&quot;https://wiki.eclipse.org/Linux_Tools_Project/Docker_Tooling&quot;&gt;Docker Tooling&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/hW0ENpGcP34&quot;&gt;&lt;img alt=&quot;Eclipse Neon.1: 4:00-minute demo of 10 improvements&quot; class=&quot;aligncenter size-full wp-image-1144&quot; height=&quot;253&quot; src=&quot;https://eclipsehowl.files.wordpress.com/2016/09/eclipse_neon-1_10_improvements_video.png?w=450&amp;amp;h=253&quot; width=&quot;450&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And in case you missed it, the &lt;i&gt;&lt;a href=&quot;https://youtu.be/lCsd681yo1c&quot;&gt;5:30-minute video showing 22 Neon.0 improvements&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/eclipsehowl.wordpress.com/1143/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/eclipsehowl.wordpress.com/1143/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=eclipsehowl.wordpress.com&amp;amp;blog=11064764&amp;amp;post=1143&amp;amp;subd=eclipsehowl&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Wed, 28 Sep 2016 14:21:22 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
